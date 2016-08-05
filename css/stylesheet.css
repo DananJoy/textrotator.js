@@ -1,0 +1,18 @@
+.photobox {
+    background-color: dimgray;
+}
+
+.welcomebox {
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+.welcomebox p {
+    font-size: 24px;
+    color: white;
+    text-align: center;
+}
+
+.socialbox {
+    background-color: dimgrey;
+}
